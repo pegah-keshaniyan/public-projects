@@ -1,0 +1,16 @@
+# MGMT Expression Analysis in TCGA-GBM
+
+This project explores MGMT gene expression in glioblastoma multiforme (GBM) samples from TCGA, using RNA-seq and clinical data.
+
+### Objectives:
+- Visualize MGMT expression vs. patient age
+- Compare MGMT expression between patients who received radiation therapy and those who did not
+- Perform statistical testing on group differences
+
+### Tools Used:
+- Python (pandas, matplotlib, seaborn, scipy)
+- Jupyter Notebook
+- TCGA data from UCSC Xena
+
+### Status:
+This is the first in a planned series of analyses exploring tumor biology and treatment variables in cancer datasets.
